@@ -1,0 +1,37 @@
+body {
+ background-color: rgb(248, 241, 241);
+
+}  
+
+.box{
+height: 150px; 
+width: 1000px;
+border: rgb(29, 4, 4) 3px solid;
+background-color:rgb(148, 18, 18) ;
+
+color: white;
+}
+
+.box-2{
+height: 75;
+width: 1000px;
+border: blue 5px solid;
+background-color: blue;
+}
+
+.cr7-2{
+
+
+
+}
+
+
+.box-3{
+height: 350;
+width: 750px;
+background-color:gray;
+border:black 10px solid;
+
+color:white ;
+}
+
